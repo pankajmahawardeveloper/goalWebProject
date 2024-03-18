@@ -270,23 +270,15 @@
                 <span><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</span>
                 <!-- start -->
                 <div class="hm_ts_holder">
-                    <div class="hm_ts_bx" style="--delay:-1;">
+                    <div class="hm_ts_bx">
                         <div><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</div>
                         <span>india</span>
                     </div>
-                    <div class="hm_ts_bx" style="--delay:0;">
+                    <div class="hm_ts_bx hm_ts_bx_active">
                         <div><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</div>
                         <span>india</span>
                     </div>
-                    <div class="hm_ts_bx" style="--delay:1;">
-                        <div><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</div>
-                        <span>india</span>
-                    </div>
-                    <div class="hm_ts_bx" style="--delay:2;">
-                        <div><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</div>
-                        <span>india</span>
-                    </div>
-                    <div class="hm_ts_bx" style="--delay:2;">
+                    <div class="hm_ts_bx">
                         <div><img src="{{URL::to('img/testimonial_img/ts.jpg')}}" alt="">Manan Bhavsar</div>
                         <span>india</span>
                     </div>
