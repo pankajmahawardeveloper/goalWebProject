@@ -1,11 +1,5 @@
 
 *{margin:0; padding:0; box-sizing:border-box;}
-body{font-family:primary_font; overflow-y: auto; overflow-x: hidden;}
-
-/* global style */
-ul{list-style:none !important;}
-a{text-decoration:none !important;}
-/* global style end */
 
 /* section two */
 .hm_section_two{width:100%; height:auto; margin:55px 0px; padding: 0px 25px;}

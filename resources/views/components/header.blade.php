@@ -9,7 +9,13 @@
     @font-face { font-family:regular_italic; src: url({{URL::to('/fonts/PPMORI-REGULARITALIC.OTF')}}); }
     /* website global fonts end */
 
-    body .body_class{overflow:hidden;}
+    /* global style */
+    body{font-family:primary_font; overflow-y: auto; overflow-x: hidden;}
+    body.body_class{overflow:hidden ;}
+    ul{list-style:none !important;}
+    li{list-style:none !important;}
+    a{text-decoration:none !important;}
+    /* global style end */
 
     /* cursor start */
     .cursor-dot, .cursor-dot-outline {pointer-events: none; position: absolute; top: 50%; left: 50%; border-radius: 50%; opacity: 0; transform: translate(-50%, -50%); transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; z-index: 100000;}
