@@ -1,5 +1,6 @@
 /* home ********************************************/
 /* max 1400 */
+body{font-family:regular;}
 @media screen and (max-width:1399px){
     /* section two */
     .hm_section_two {margin-top: 32px;}

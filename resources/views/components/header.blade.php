@@ -10,7 +10,7 @@
     /* website global fonts end */
 
     /* global style */
-    body{font-family:primary_font; overflow-y: auto; overflow-x: hidden;}
+    body{overflow-y: auto; overflow-x: hidden;}
     body.body_class{overflow:hidden ;}
     ul{list-style:none !important;}
     li{list-style:none !important;}

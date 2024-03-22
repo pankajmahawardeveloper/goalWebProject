@@ -7,15 +7,10 @@
     <!-- institute style -->
     <link rel="stylesheet" href="{{URL::to('front-end-style/institute.css')}}">
     <link rel="stylesheet" href="{{URL::to('front-end-style/responsive.css')}}">
+    <link rel="stylesheet" href="{{URL::to('/front-end-style/style.css')}}">
     <!-- bootstrap css -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
     <style>
-        @font-face { font-family:extra_light; src: url({{URL::to('/fonts/PPMORI-EXTRALIGHT.OTF')}}); }
-        @font-face { font-family:extra_light_italic; src: url({{URL::to('/fonts/PPMORI-EXTRALIGHTITALIC.OTF')}}); }
-        @font-face { font-family:regular; src: url({{URL::to('/fonts/PPMORI-REGULAR.OTF')}}); }
-        @font-face { font-family:semi_bold; src: url({{URL::to('/fonts/PPMORI-SEMIBOLD.OTF')}}); }
-        @font-face { font-family:semi_bold_italic; src: url({{URL::to('/fonts/PPMORI-SEMIBOLDITALIC.OTF')}}); }
-        @font-face { font-family:regular_italic; src: url({{URL::to('/fonts/PPMORI-REGULARITALIC.OTF')}}); }
         .hm_section_seven, .ft_tp_line{display:none !important;}
     </style>
 </head>
